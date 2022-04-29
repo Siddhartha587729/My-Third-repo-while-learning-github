@@ -1,2 +1,4 @@
 Just another created in feature 1 branch
 change
+
+this line was added in feature-1 branch
